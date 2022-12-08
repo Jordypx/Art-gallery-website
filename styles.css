@@ -552,7 +552,7 @@ body{
     position: absolute;
     top:20%;
     right: -120px;
-    
+    mix-blend-mode: difference;
 
   
    
